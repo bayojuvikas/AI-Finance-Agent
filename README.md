@@ -1,4 +1,5 @@
-# 🧠📈 Multi-Agent Voice Finance Assistant – RagaAI Internship Project https://ai-finance-agent.streamlit.app/
+# 🧠📈 Multi-Agent Voice Finance Assistant – RagaAI Internship Project
+https://ai-finance-agent.streamlit.app/
 
 This project is a modular, voice-enabled finance assistant built for the RagaAI internship assignment. It delivers daily market briefs via real-time data agents, document scrapers, LLM-based summarizers, and voice interfaces.
 
