@@ -44,35 +44,15 @@ This project is a modular, voice-enabled finance assistant built for the RagaAI 
 
 ---
 
-## 📁 Folder Structure
-
-AI_AGENT/
-├── api_agent.py
-├── analysis_agent.py
-├── language_agent.py
-├── voice_agent.py
-├── orchestrator/
-│ ├── main.py
-│ └── routers/
-│ ├── api_agent.py
-│ ├── analysis_agent.py
-│ ├── language_agent.py
-│ └── voice_agent.py
-├── streamlit_app/
-│ └── app.py
-├── docs/
-│ └── ai_tool_usage.md
-├── requirements.txt
-└── README.md
-
----
-
 ## 🛠️ Setup Instructions
 
 # Clone repo & activate virtual env
 git clone https://github.com/<your-username>/finance-assistant
+
 cd finance-assistant
+
 python -m venv venv
+
 source venv/bin/activate  # Windows: venv\Scripts\activate
 
 # Install dependencies
@@ -82,11 +62,13 @@ pip install -r requirements.txt
 uvicorn orchestrator.main:app --reload
 
 # In another terminal, run the Streamlit frontend
-cd streamlit_app
+cd streamlit_app 
+
 streamlit run app.py
 
 
-🧪 Sample Output
+# 🧪 Sample Output
+
 Asia Tech Exposure: 27.0% (was 22.0%, up)
 Earnings Summary:
 
