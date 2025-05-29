@@ -94,3 +94,19 @@ Baidu: ΔPrice = -0.26 | Surprise = nan
 
 # Streamlit Application URL:
 https://ai-finance-agent.streamlit.app/
+
+<p float="left">
+  <img src="assets/Example.jpg" width="700" />
+</p>
+<p float="left">
+  <img src="assets/Example.jpg" width="700" />
+</p>
+<p float="left">
+  <img src="assets/Example.jpg" width="700" />
+</p>
+<p float="left">
+  <img src="assets/Example.jpg" width="700" />
+</p>
+<p float="left">
+  <img src="assets/Example.jpg" width="700" />
+</p>
