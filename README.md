@@ -69,7 +69,6 @@ AI_AGENT/
 
 ## 🛠️ Setup Instructions
 
-```bash
 # Clone repo & activate virtual env
 git clone https://github.com/<your-username>/finance-assistant
 cd finance-assistant
@@ -99,12 +98,13 @@ Baidu: ΔPrice = -0.26 | Surprise = nan
 
 
 📌 Credits & Tools
-Tool	                         Purpose
-FastAPI	                       Agent microservices
-yFinance	                     Stock data (TSMC, Samsung, etc.)
-BeautifulSoup	                 RSS feed parsing
-Whisper	                       Speech-to-text
-pyttsx3	                       Text-to-speech
-Streamlit                      Web UI
-LangChain	                     LLM interfacing
-GitHub Copilot / ChatGPT	     Coding assistance
+| **Tool**                 | **Purpose**                      |
+| ------------------------ | -------------------------------- |
+| FastAPI                  | Agent microservices              |
+| yFinance                 | Stock data (TSMC, Samsung, etc.) |
+| BeautifulSoup            | RSS feed parsing                 |
+| Whisper                  | Speech-to-text                   |
+| pyttsx3                  | Text-to-speech                   |
+| Streamlit                | Web UI                           |
+| LangChain                | LLM interfacing                  |
+| GitHub Copilot / ChatGPT | Coding assistance                |
