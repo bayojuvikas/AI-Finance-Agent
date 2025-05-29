@@ -22,10 +22,10 @@ This document tracks where and how AI tools and open-source models were used dur
 
 ## 🧠 LLM Components
 
-| Model / Library   | Use Case                                  |
-|-------------------|-------------------------------------------|
-| LangChain         | Retriever interface for chunking + RAG    |
-| OpenAI / GPT-4 (ChatGPT) | Narrative summarization logic     |
+| Model / Library          | Use Case                                  |
+|--------------------------|-------------------------------------------|
+| LangChain                | Retriever interface for chunking + RAG    |
+| OpenAI / GPT-4 (ChatGPT) | Narrative summarization logic             |
 
 ---
 
@@ -34,13 +34,13 @@ This document tracks where and how AI tools and open-source models were used dur
 | Source        | Description                                |
 |---------------|--------------------------------------------|
 | Yahoo Finance | Real-time & historical stock data          |
-| RSS Feeds     | Company filings + earnings via scraping     |
+| RSS Feeds     | Company filings + earnings via scraping    |
 
 ---
 
 ## 🧰 Toolkits
 
-| Toolkit         | Function              |
+| Toolkit         | Function               |
 |-----------------|------------------------|
 | BeautifulSoup   | HTML parsing of RSS    |
 | feedparser      | Lightweight RSS loader |
