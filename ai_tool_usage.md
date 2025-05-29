@@ -25,7 +25,7 @@ This document tracks where and how AI tools and open-source models were used dur
 | Model / Library          | Use Case                                  |
 |--------------------------|-------------------------------------------|
 | LangChain                | Retriever interface for chunking + RAG    |
-| OpenAI / GPT-4 (ChatGPT) | Narrative summarization logic             |
+| OpenAI / GPT-4(optional) | Narrative summarization logic             |
 
 ---
 
