@@ -1,5 +1,5 @@
-from multi_agent_finance_assistant.agents.retriever_agent import RetrieverAgent
-from multi_agent_finance_assistant.agents.scraping_agent import scrape_yahoo_rss_feed
+from retriever_agent import RetrieverAgent
+from scraping_agent import scrape_yahoo_rss_feed
 
 agent = RetrieverAgent()
 

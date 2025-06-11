@@ -1,4 +1,4 @@
-from multi_agent_finance_assistant.agents.api_agent import get_stock_summary
+from api_agent import get_stock_summary
 from typing import List, Dict
 
 # Define your portfolio here (real tickers + region + sector)

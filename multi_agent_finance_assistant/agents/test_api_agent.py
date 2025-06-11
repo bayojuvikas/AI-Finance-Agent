@@ -1,4 +1,4 @@
-from multi_agent_finance_assistant.agents.api_agent import try_fallback_ticker
+from api_agent import try_fallback_ticker
 
 tickers_to_try = {
     "TSMC": ["TSM", "2330.TW"],

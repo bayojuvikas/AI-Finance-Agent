@@ -8,7 +8,7 @@ import tempfile
 model = whisper.load_model("base")
 
 # 1. Record voice input (5 seconds)
-def record_voice(duration=5, samplerate=16000):
+def record_voice(duration=3, samplerate=16000):
     print("🎙️ Listening... Speak now!")
     audio = sd.rec(int(duration * samplerate), samplerate=samplerate, channels=1)
     sd.wait()

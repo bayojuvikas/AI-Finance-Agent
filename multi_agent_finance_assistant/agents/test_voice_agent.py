@@ -1,4 +1,4 @@
-from multi_agent_finance_assistant.agents.voice_agent import record_voice, transcribe_audio, speak_text
+from voice_agent import record_voice, transcribe_audio, speak_text
 
 audio, sr = record_voice()
 text = transcribe_audio(audio, sr)
@@ -19,7 +19,8 @@ if "asia tech" in query.lower():
     summary = analyze_portfolio(yesterday_portfolio, real_portfolio)
     reply = generate_market_brief(summary)
 else:
-    reply = "Sorry, I didn't understand. Try asking about Asia tech exposure."
+    summary = analyze_portfolio(yesterday_portfolio, real_portfolio)
+    reply = generate_market_brief(summary)
 
 print("🗣️ Responding...")
 print(reply)

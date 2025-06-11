@@ -1,4 +1,4 @@
-from multi_agent_finance_assistant.agents.analysis_agent import analyze_portfolio, yesterday_portfolio, real_portfolio
+from analysis_agent import analyze_portfolio, yesterday_portfolio, real_portfolio
 
 summary = analyze_portfolio(yesterday_portfolio, real_portfolio)
 
