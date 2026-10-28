@@ -1,0 +1,62 @@
+[
+  {
+    "id": "qa_001",
+    "title": "Asia Tech Allocation",
+    "category": "portfolio",
+    "content": "Your Asia tech allocation currently stands at 27.0%, up from 22.0% previously. Key holdings include TSM (12%), Samsung 005930.KS (10%), BIDU (5%), and AAPL (20%, US control). The trend is upward due to increased weighting in TSM and Samsung."
+  },
+  {
+    "id": "qa_002",
+    "title": "Earnings Surprises",
+    "category": "earnings",
+    "content": "TSM beat earnings estimates by 4.2%. BIDU missed estimates by 1.5%. Samsung (005930.KS) reported earnings but no surprise data was available. Regional earnings sentiment is neutral with a cautionary tilt due to rising yields."
+  },
+  {
+    "id": "qa_003",
+    "title": "Risk Exposure",
+    "category": "risk",
+    "content": "Risk exposure in Asia tech stocks is elevated following the allocation increase to 27.0%. Rising yields and regional sentiment create a cautious backdrop. Selectivity and bottom-up quality are recommended. US tech control position AAPL at 20% provides diversification."
+  },
+  {
+    "id": "qa_004",
+    "title": "Market Sentiment",
+    "category": "sentiment",
+    "content": "Regional sentiment is neutral with a cautionary tilt due to rising yields. Investors are advised to remain selective. No significant revaluation triggers emerged this cycle. Monitor yield movements and earnings surprises for direction."
+  },
+  {
+    "id": "qa_005",
+    "title": "TSMC Holdings",
+    "category": "holding",
+    "content": "TSM (Taiwan Semiconductor Manufacturing) is your largest Asia tech holding at 12.0% allocation. It beat earnings estimates by 4.2%. Price change over the last 5 days was positive."
+  },
+  {
+    "id": "qa_006",
+    "title": "Samsung Holdings",
+    "category": "holding",
+    "content": "Samsung (005930.KS) is a 10.0% allocation in Asia tech. It reported earnings with no surprise data available. Price change over the last 5 days was slightly negative."
+  },
+  {
+    "id": "qa_007",
+    "title": "Baidu Holdings",
+    "category": "holding",
+    "content": "BIDU is a 5.0% allocation in Asia tech. It missed earnings estimates by 1.5%. Price change over the last 5 days was modestly positive."
+  },
+  {
+    "id": "qa_008",
+    "title": "Apple Control Position",
+    "category": "holding",
+    "content": "AAPL is your US tech control position at 20.0% allocation. It serves as a diversification benchmark against the Asia tech exposure. Allocation remained unchanged at 20%."
+  },
+  {
+    "id": "qa_009",
+    "title": "Rising Yields Impact",
+    "category": "macro",
+    "content": "Rising yields are creating a cautious tilt in regional sentiment. Higher yields typically pressure tech valuations. Monitor treasury yields and consider reducing duration-sensitive growth exposure if yields continue climbing."
+  },
+  {
+    "id": "qa_010",
+    "title": "Portfolio Rebalancing",
+    "category": "rebalancing",
+    "content": "Consider rebalancing if Asia tech allocation drifts beyond target bands. Current Asia tech exposure is 27.0% versus 22.0% previously. Take profits in winners like TSM and redeploy to underweights or hold cash if yields keep rising."
+  }
+]

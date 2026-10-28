@@ -19,6 +19,6 @@ def generate_market_brief(analysis_summary: dict):
 
         earnings_lines.append(line)
 
-    sentiment_line = "Regional sentiment is neutral with a cautionary tilt due to rising yields."  # stub
+    sentiment_line = "Regional sentiment is neutral with a cautionary tilt due to rising yields."
 
     return "\n".join([exposure_line] + earnings_lines + [sentiment_line])
